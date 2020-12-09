@@ -37,16 +37,11 @@ function About() {
           </div>
           <div className="about-text">
             <p className="mb-3">
-              <span className="font-weight-bold">Developer Student Clubs</span>{" "}
-              are university based community groups for students interested in
-              Google developer technologies. Students from all undergraduate or
-              graduate programs with an interest in growing as a developer are
-              welcome.
+              <span className="font-weight-bold">DSC WOW</span>{" "}
+              is a collaborative event of 100+ DSCs from India, who have joined hands to bring together students, developers and communities under the same roof. They can attain knowledge from highly experienced industry professionals and can also polish their coding skills, or maybe just get started with their programming journey.
             </p>
-            <p>
-            By joining a DSC, students grow their knowledge in a <span className="about-highlight">peer-to-peer learning environment</span> and <span className="text-danger"> build solutions </span>for local businesses and their community.
-            </p>
-          </div>
+            <button className="secondary__btn">View Collaborating DSCs</button>
+            </div>
         </div>
       </div>
     </section>
